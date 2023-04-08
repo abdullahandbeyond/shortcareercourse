@@ -10,3 +10,4 @@ _Used Learnpress as an LMS plugin to create the course
 _Used Github desktop version to push files into the online repository 
 
 If you can`t run the site locally you can view a sample of it here:
+https://youtu.be/tQi55goRxII
